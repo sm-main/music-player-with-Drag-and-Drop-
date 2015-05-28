@@ -1,0 +1,473 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"BlogsInfo"
+			],
+			[
+				"blo",
+				"blog_name"
+			],
+			[
+				"bl",
+				"blog_name"
+			],
+			[
+				"get_",
+				"get_object_or_404"
+			],
+			[
+				"ques",
+				"question_id"
+			],
+			[
+				"Quesion",
+				"QuestionAdmin"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"sta",
+				"start_stop"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"print",
+				"print_all"
+			],
+			[
+				"pla",
+				"playlistUpdate"
+			],
+			[
+				"playlis",
+				"playlistUpdate"
+			],
+			[
+				"dr",
+				"dropArea"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"drag",
+				"dragElements"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"play",
+				"playlist_index"
+			],
+			[
+				"ca",
+				"canvas	Tag"
+			],
+			[
+				"send",
+				"sendReq"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"inn",
+				"innerHeight"
+			],
+			[
+				"gum",
+				"gumBall"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"call",
+				"callNum"
+			],
+			[
+				"start",
+				"started"
+			],
+			[
+				"event",
+				"eventObject"
+			],
+			[
+				"onmouse",
+				"onmouseover"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"getE",
+				"getElementsByClassName"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"backgro",
+				"background-image"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"for",
+				"form	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"",
+				"Set Syntax: HTML (Tcl)"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 56.0,
+		"history":
+		[
+			" import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/sumant/blog/blog/settings.py",
+		"/home/sumant/firstapp/polls/models.py",
+		"/home/sumant/firstapp/firstapp/urls.py",
+		"/home/sumant/firstapp/firstapp/settings.py",
+		"/home/sumant/firstapp/polls/urls.py",
+		"/home/sumant/firstapp/polls/templates/polls/index.html",
+		"/home/sumant/firstapp/polls/views.py",
+		"/home/sumant/firstapp/polls/admin.py",
+		"/home/sumant/firstapp/polls/templates/polls/detail.html",
+		"/home/sumant/firstapp/urls.py",
+		"/home/sumant/firstapp/templates/admin/base_site.html",
+		"/home/sumant/firstapp/manage.py",
+		"/home/sumant/blog/manyblogs/models.py",
+		"/home/sumant/Desktop/model.py",
+		"/home/sumant/blog/blog/__init__.py",
+		"/home/sumant/firstapp/firstapp/__init__.py",
+		"/home/sumant/firstapp/polls/migrations/0001_initial.py",
+		"/home/sumant/firstapp/polls/migrations/__init__.py",
+		"/home/sumant/firstapp/polls/__init__.py",
+		"/home/sumant/elixir/DragAndDrop/Drag&Drop.css",
+		"/home/sumant/elixir/musicPlayer/musicPlayer.js",
+		"/home/sumant/elixir/timer/timer.html",
+		"/home/sumant/elixir/timer/timer.js",
+		"/home/sumant/elixir/DragAndDrop/Drag&Drop.js",
+		"/home/sumant/elixir/timer/timer.css",
+		"/home/sumant/mysite/polls/models.py",
+		"/home/sumant/mysite/mysite/settings.py",
+		"/home/sumant/elixir/musicPlayer/musicPlayer.html",
+		"/home/sumant/Downloads/downloader.py",
+		"/home/sumant/djangoStuff/mysite/mysite/settings.py",
+		"/home/sumant/djangoStuff/mysite/polls/models.py",
+		"/home/sumant/elixir/onScroll/onscroll.css",
+		"/home/sumant/elixir/onScroll/onscroll.js",
+		"/home/sumant/elixir/DragAndDrop/Drag&Drop.html",
+		"/home/sumant/elixir/onScroll/onscroll.html",
+		"/home/sumant/Desktop/picsFetch.py",
+		"/home/sumant/elixir/2048/reference.js",
+		"/home/sumant/elixir/musicPlayer/musicPlayer.css",
+		"/home/sumant/Desktop/test.py",
+		"/home/sumant/elixir/AjaxGetReq/practice.js",
+		"/home/sumant/Downloads/DOWNLOAD_PHOTOS_FROM_URL.py",
+		"/home/sumant/django-sumant/bin/django-admin.py",
+		"/home/sumant/django-sumant/mysite/mysite/__init__.py",
+		"/home/sumant/Downloads/bootstrap.py",
+		"/home/sumant/Desktop/fetch.py",
+		"/home/sumant/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/sumant/elixir/JS Practice3/practice.css",
+		"/home/sumant/elixir/JS Practice3/practice.js",
+		"/home/sumant/elixir/JS Practice3/practice.html",
+		"/home/sumant/elixir/gumBall/gumBall.html",
+		"/home/sumant/elixir/gumBall/gumBall.css",
+		"/home/sumant/elixir/gumBall/gumBall.js",
+		"/home/sumant/elixir/Canvas/canvas.css",
+		"/home/sumant/elixir/Canvas/canvas.js",
+		"/home/sumant/elixir/Canvas/canvas.html",
+		"/home/sumant/elixir/2048/2048.css",
+		"/home/sumant/elixir/2048/2048.html",
+		"/home/sumant/elixir/2048/2048.js",
+		"/home/sumant/.cache/.fr-c3ViZk/chapter6/mightygumball.html",
+		"/home/sumant/elixir/Calculator JS/calculator.css",
+		"/home/sumant/elixir/Calculator JS/calculator.html",
+		"/home/sumant/elixir/Calculator JS/calculator.js",
+		"/home/sumant/elixir/smoothScroll/smoothScroll.css",
+		"/home/sumant/elixir/smoothScroll/smoothScroll.html",
+		"/home/sumant/elixir/smoothScroll/smoothScroll.js",
+		"/home/sumant/Downloads/Lecture - 8/jsbin.yatecitete.18.html",
+		"/home/sumant/elixir/JS Practice1/practice.css",
+		"/home/sumant/elixir/JS Practice1/practice.html",
+		"/home/sumant/elixir/JS Practice1/practice.js",
+		"/home/sumant/elixir/CatchMeIfYouCan/catchme.css",
+		"/home/sumant/elixir/CatchMeIfYouCan/catchme.html",
+		"/home/sumant/elixir/CatchMeIfYouCan/catchme.js",
+		"/home/sumant/elixir/JS Practice2/JsStuff.css",
+		"/home/sumant/elixir/JS Practice2/JsStuff.html",
+		"/home/sumant/elixir/JS Practice2/JsStuff.js",
+		"/home/sumant/elixir/Project2/project2.css",
+		"/home/sumant/elixir/Project2/project2.html",
+		"/home/sumant/elixir/Project2/width1.css",
+		"/home/sumant/elixir/javascript2/calculator.js",
+		"/home/sumant/elixir/javascript/practice.html",
+		"/home/sumant/elixir/javascript2/calculator.html",
+		"/home/sumant/elixir/javascript2/calculator.css",
+		"/home/sumant/Downloads/downloads/htmlfiles/stylesheet1.css",
+		"/home/sumant/Downloads/downloads/htmlfiles/practice111.js",
+		"/home/sumant/Downloads/downloads/htmlfiles/first.html",
+		"/home/sumant/Downloads/downloads/htmlfiles/new  1.html",
+		"/home/sumant/elixir/javascript/practice.css",
+		"/home/sumant/elixir/javascript/practice.js",
+		"/home/sumant/project2/project2.css",
+		"/home/sumant/project2/project2.html",
+		"/home/sumant/project2/project2.txt",
+		"/home/sumant/elixir/javascript/pracrice.css",
+		"/home/sumant/Pictures/htmlstuff2/spritesheet.css",
+		"/home/sumant/Pictures/htmlstuff2/spritesheet.html",
+		"/home/sumant/Pictures/downloads/project2/project2.css",
+		"/home/sumant/Pictures/downloads/project2/project2.html",
+		"/home/sumant/Pictures/downloads/New Text Document.txt"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			")",
+			"20px",
+			"	\n",
+			");\n",
+			";\n",
+			"                         ",
+			"	\n",
+			";\n",
+			"\";\n",
+			"                 \n",
+			"                 <",
+			"            <",
+			"center",
+			"green",
+			">\n",
+			"facili"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "musicPlayer.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
